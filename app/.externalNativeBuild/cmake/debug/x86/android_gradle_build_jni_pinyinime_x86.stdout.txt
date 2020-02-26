@@ -1,1 +1,31 @@
-ninja: no work to do.
+[1/31] Building CXX object CMakeFiles/engine.dir/share/spellingtable.cpp.o
+[2/31] Building CXX object CMakeFiles/engine.dir/share/lpicache.cpp.o
+[3/31] Building CXX object CMakeFiles/engine.dir/share/mystdlib.cpp.o
+[4/31] Building CXX object CMakeFiles/engine.dir/share/searchutility.cpp.o
+[5/31] Building CXX object CMakeFiles/engine.dir/share/ngram.cpp.o
+[6/31] Building CXX object CMakeFiles/engine.dir/share/dictbuilder.cpp.o
+[7/31] Building CXX object CMakeFiles/engine.dir/share/dictlist.cpp.o
+[8/31] Building CXX object CMakeFiles/engine.dir/share/dicttrie.cpp.o
+[9/31] Building CXX object CMakeFiles/engine.dir/share/splparser.cpp.o
+[10/31] Building CXX object CMakeFiles/engine.dir/share/utf16reader.cpp.o
+[11/31] Building CXX object CMakeFiles/engine.dir/share/spellingtrie.cpp.o
+[12/31] Building CXX object CMakeFiles/engine.dir/share/utf16char.cpp.o
+[13/31] Linking CXX static library libengine.a
+[14/31] Building CXX object CMakeFiles/jni_pinyinime.dir/android/com_android_inputmethod_pinyin_PinyinDecoderService.cpp.o
+[15/31] Building CXX object CMakeFiles/jni_pinyinime.dir/share/dictbuilder.cpp.o
+[16/31] Building CXX object CMakeFiles/jni_pinyinime.dir/share/dictlist.cpp.o
+[17/31] Building CXX object CMakeFiles/jni_pinyinime.dir/share/ngram.cpp.o
+[18/31] Building CXX object CMakeFiles/jni_pinyinime.dir/share/lpicache.cpp.o
+[19/31] Building CXX object CMakeFiles/jni_pinyinime.dir/share/matrixsearch.cpp.o
+[20/31] Building CXX object CMakeFiles/jni_pinyinime.dir/share/dicttrie.cpp.o
+[21/31] Building CXX object CMakeFiles/jni_pinyinime.dir/share/mystdlib.cpp.o
+[22/31] Building CXX object CMakeFiles/jni_pinyinime.dir/share/spellingtable.cpp.o
+[23/31] Building CXX object CMakeFiles/jni_pinyinime.dir/share/spellingtrie.cpp.o
+[24/31] Building CXX object CMakeFiles/jni_pinyinime.dir/share/pinyinime.cpp.o
+[25/31] Building CXX object CMakeFiles/jni_pinyinime.dir/share/splparser.cpp.o
+[26/31] Building CXX object CMakeFiles/jni_pinyinime.dir/share/userdict.cpp.o
+[27/31] Building CXX object CMakeFiles/jni_pinyinime.dir/share/utf16char.cpp.o
+[28/31] Building CXX object CMakeFiles/jni_pinyinime.dir/share/searchutility.cpp.o
+[29/31] Building CXX object CMakeFiles/jni_pinyinime.dir/share/utf16reader.cpp.o
+[30/31] Building CXX object CMakeFiles/jni_pinyinime.dir/share/sync.cpp.o
+[31/31] Linking CXX shared library F:\workspace\Android\PinyinIME\app\build\intermediates\cmake\debug\obj\x86\libjni_pinyinime.so
